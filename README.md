@@ -17,7 +17,7 @@ This project helps answer questions such as:
 
 ## Dataset
 - File used in analysis: `data.csv`
-- Dataset source: [Add Kaggle dataset link here](PASTE_KAGGLE_LINK_HERE)
+- Dataset source: Kaggle
 - Note: The raw dataset is not included in this repository.
 
 ## Tools and Technologies
